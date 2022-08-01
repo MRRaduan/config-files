@@ -1,0 +1,22 @@
+{
+  "workbench.sideBar.location": "right",
+  "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+  "workbench.colorTheme": "Gruvbox Dark Medium",
+  "editor.tabSize": 2,
+  "editor.fontFamily": "IBM Plex Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.formatOnSave": true,
+  "editor.lineHeight": 1.8,
+  "editor.fontSize": 12,
+  "editor.minimap.enabled": false,
+  "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.glyphMargin": false,
+  "workbench.statusBar.visible": false,
+  // "workbench.activityBar.visible": false,
+}
